@@ -1,0 +1,4 @@
+*Sayfa başlığını ortalayıp, font büyüklüğünü 16px yap.
+*Liste elemanlarının üstünü çizin 
+*Liste elemanlarına liste işareti ekleyin.
+
